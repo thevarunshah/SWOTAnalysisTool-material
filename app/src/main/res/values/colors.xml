@@ -1,0 +1,14 @@
+<resources>
+    <color name="primary">#00897B</color>
+    <color name="primary_dark">#00695C</color>
+    <color name="accent">#BBDEFB</color>
+    <color name="text_primary">#D9FFFFFF</color>
+    <color name="text_secondary">#212121</color>
+    <color name="item_color">#ffffff</color>
+    <color name="tabsScrollColor">#004D40</color>
+    <color name="homeBG">#FFFFF0</color>
+    <color name="logoBG">#ECCECF</color>
+    <color name="colorHint">#808080</color>
+    <color name="itemBG">#e0e0e0</color>
+
+</resources>

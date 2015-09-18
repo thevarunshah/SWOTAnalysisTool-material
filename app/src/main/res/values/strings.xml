@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SWOT Analysis Tool</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Edit Name</string>
+    <string name="input_prefill"></string>
+    <string name="input_hint">Insert here</string>
+    <string name="input">Edit Title</string>
+
+</resources>
